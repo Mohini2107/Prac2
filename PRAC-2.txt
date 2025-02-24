@@ -1,1 +1,2 @@
 This the Git Commands Practicals 
+This is the edited command for practical 3
